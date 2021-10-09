@@ -1,35 +1,20 @@
 {
   "decks": [
     {
-      "name": "asdas",
-      "description": "asdasd",
+      "name": "Deck",
+      "description": "Title",
       "id": 1
-    },
-    {
-      "name": "asdsaddddddddd",
-      "description": "asdasddd",
-      "id": 2
     }
   ],
   "cards": [
     {
-      "front": "test card",
-      "back": "astrat",
-      "id": 4
-    },
-    {
-      "front": "asdasd",
-      "back": "asdasd",
-      "id": 5
-    },
-    {
-      "front": "asssssssssssss",
-      "back": "ssssssssssssssssssssss",
+      "front": "front",
+      "back": "back",
       "id": 6
     },
     {
-      "front": "asdasd",
-      "back": "asdsadasd",
+      "front": "front ",
+      "back": "back",
       "id": 7
     },
     {
@@ -38,40 +23,9 @@
       "id": 8
     },
     {
-      "front": "asdasd",
-      "back": "asda",
-      "deckId": 1,
+      "front": "Back",
+      "back": "Front",
       "id": 9
-    },
-    {
-      "front": "asdasd",
-      "back": "asdasd",
-      "deckId": 1,
-      "id": 10
-    },
-    {
-      "front": "asdasd",
-      "back": "asdasd",
-      "deckId": 1,
-      "id": 11
-    },
-    {
-      "front": "asdsad",
-      "back": "asdasd",
-      "deckId": 2,
-      "id": 12
-    },
-    {
-      "front": "asdasd",
-      "back": "asdasd",
-      "deckId": 2,
-      "id": 13
-    },
-    {
-      "front": "asdasd",
-      "back": "asdasd",
-      "deckId": 2,
-      "id": 14
     }
   ]
 }
